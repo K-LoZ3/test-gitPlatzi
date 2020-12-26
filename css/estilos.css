@@ -2,3 +2,9 @@ h1
 {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#cabecera
+{
+    background-color: cornflowerblue;
+    color: cornsilk;
+}
