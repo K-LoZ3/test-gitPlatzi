@@ -3,3 +3,9 @@ h1
     font-family: Arial;
     color: black;
 }
+
+#cabecera
+{
+    background-color: cornflowerblue;
+    color: cornsilk;
+}
